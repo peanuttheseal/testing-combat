@@ -125,7 +125,7 @@ function start_battle(force_boss: boolean) {
             1 1 1 1 1 1 1 1 1 1 1 1 1 1
             1 1 1 1 1 1 1 1 1 1 1 1 1 1
             1 1 1 . 1 1 1 1 1 1 . 1 1 1
-            1 1 . . . 1 1 1 1 1 1 . . . 1 1
+            1 1 . . 1 1 1 1 1 1 . . 1 1
             1 . . . . . 1 1 . . . . . 1
         `, SpriteKind.Enemy)
         ghost.say("HP: " + ("" + ghost_hp))

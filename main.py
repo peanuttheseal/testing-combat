@@ -128,7 +128,7 @@ def start_battle(force_boss):
             1 1 1 1 1 1 1 1 1 1 1 1 1 1
             1 1 1 1 1 1 1 1 1 1 1 1 1 1
             1 1 1 . 1 1 1 1 1 1 . 1 1 1
-            1 1 . . . 1 1 1 1 1 1 . . . 1 1
+            1 1 . . 1 1 1 1 1 1 . . 1 1
             1 . . . . . 1 1 . . . . . 1
         """), SpriteKind.enemy)
         ghost.say("HP: " + str(ghost_hp))
