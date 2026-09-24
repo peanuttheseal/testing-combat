@@ -37,7 +37,7 @@ crowbar_item = sprites.create(img("""
     . . . . c c . .
     . . . c c . . .
     c c c c . . . .
-    c . . . . . . .
+    c c . . . . . .
 """), ItemKind)
 crowbar_item.set_position(40, 60)
 

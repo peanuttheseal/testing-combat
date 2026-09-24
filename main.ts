@@ -32,7 +32,7 @@ crowbar_item = sprites.create(img`
     . . . . c c . .
     . . . c c . . .
     c c c c . . . .
-    c . . . . . . .
+    c c . . . . . .
 `, ItemKind)
 crowbar_item.setPosition(40, 60)
 //  Spawn Liquorice Healing Item (Right side)
